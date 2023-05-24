@@ -9,6 +9,12 @@ img {
     margin: auto;
   }
 
+/* elementi p */
+#p-sottotitolo{
+    text-align: center;
+    height: auto;
+}
+
   /* Elemento P sotto il logo */
 #p-sottologo {
     background-color: bisque;
@@ -46,7 +52,7 @@ color: black;
 /* Titolo h2 */
 h2{
 font-weight: normal;
-font-size: 16px;
+font-size: 2em;
 color: black;
 }
 
@@ -54,4 +60,7 @@ color: black;
 /* colore hr */
 hr {
     border-color: aqua;
+
   }
+
+/* video centrato */
