@@ -15,13 +15,6 @@ img {
     height: auto;
 }
 
-  /* Elemento P sotto il logo */
-#p-sottologo {
-    background-color: bisque;
-    color: mediumaquamarine;
-    text-align: center;
-    height: auto;
-}
 
 /* Titolo h1 */
 h1 {
@@ -42,11 +35,11 @@ color: black;
  color: red;
 }
 
-/* Riga verticale gialla */
-.vertical-line {
-    border-left: 1px solid yellow;
-    height: 100px; /* set desired height */
-    margin: 0 auto; /* center the line */
+/* contenitore*/
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
   }
 
 /* Titolo h2 */
@@ -56,6 +49,20 @@ font-size: 2em;
 color: black;
 }
 
+/* Titolo h3 */
+h3 {
+background-color: bisque;
+color: mediumaquamarine;
+text-align: center;
+border-top: 2px;
+border-color: yellow;
+}
+/* Titolo h2 */
+h3{
+    font-weight: normal;
+    font-size: 2em;
+    color: black;
+    }
 
 /* colore hr */
 hr {
@@ -63,4 +70,3 @@ hr {
 
   }
 
-/* video centrato */
