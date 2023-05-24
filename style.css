@@ -1,0 +1,56 @@
+/* image centered */
+img {
+    display: block;
+    margin: auto;
+  }
+
+  /* Elemento P sotto il logo */
+#p-sottologo {
+    background-color: bisque;
+    color: mediumaquamarine;
+    text-align: center;
+}
+
+/* Titolo h1 */
+h1 {
+font-weight: bolder;
+text-align: center;
+color: black;
+}
+
+/* Elemento P sotto immagine focaccia */
+#p-fonteimmagine {
+    font-weight: lighter;
+    color: grey;
+}
+
+/* Elemento P con il link */
+#p-featured {
+ color: red;
+}
+
+/* Riga verticale gialla */
+.vertical-line {
+    border-left: 1px solid yellow;
+    height: 100px; /* set desired height */
+    margin: 0 auto; /* center the line */
+  }
+
+/* Titolo h2 */
+h2{
+font-weight: normal;
+font-size: 16px;
+color: black;
+}
+
+/* custom title */
+.custom-title {
+    font-weight: bold;
+    font-size: 16px;
+    color: #333;
+  }
+
+/* colore hr */
+hr {
+    border-color: aqua;
+  }
